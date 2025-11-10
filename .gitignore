@@ -30,3 +30,5 @@ temp*
 
 # local env files
 .env*.local
+
+.env
