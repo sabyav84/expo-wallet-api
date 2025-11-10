@@ -27,3 +27,6 @@ logs/*
 
 # Ignore all files and directories starting with 'temp'
 temp*
+
+# local env files
+.env*.local
